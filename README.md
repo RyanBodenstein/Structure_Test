@@ -16,3 +16,4 @@ Testing a sub-branch to see how this goes. Jan 26, 13:14.
 
 Installed a chrome extension to visualize the branches and whatnot. Can be found here: https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff
 
+Another test, now that it's a public repository.
